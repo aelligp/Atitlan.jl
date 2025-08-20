@@ -1,5 +1,5 @@
 # Atitlan.jl
-Zircon Data analysis of Atitlan (and more) using [MagmaThermalKinetics.jl](https://github.com/boriskaus/MagmaThermoKinematics.jl)
+Zircon Data analysis of Atitlan (and more) using [MagmaThermoKinematics.jl](https://github.com/boriskaus/MagmaThermoKinematics.jl)
 
 ## Setup
 To set up the julia environment and installing all the required pacakges one can run the following commands in julia:
